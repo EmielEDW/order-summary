@@ -25,7 +25,7 @@ Users are able to: - See hover states for interactive elements
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-card-f_yUKhwlr)
 - Live Site URL: (https://emieledw.github.io/order-summary/order-summary/index.html)
 
 ## My process
